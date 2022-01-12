@@ -6,6 +6,6 @@ A simple application where the user can draw a digit on a canvas, and a model wi
 
 The following screenshot shows the app in action:
 
-![Sample](https://github.com/Adekiii/streamlit-digitrecognizer/blob/master/sample.png)
+![Sample](sample.png)
 
 The model is a multinomial Naive Bayes classifier trained on the MNIST dataset from sklearn (digits).
